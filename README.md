@@ -1,3 +1,13 @@
+# REEMIXXX
+
+cd /Users/gabeschillinger/coding-projects
+git clone https://github.com/LegionBeats/green-mm-type-flippp-9-28-26.git
+cd green-mm-type-flippp-9-28-26
+npm install
+
+
+
+
 # MIDIMONEY landing page
 
 A single-page marketing site for MIDIMONEY, built from the design handoff in
